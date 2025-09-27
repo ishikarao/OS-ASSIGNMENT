@@ -1,0 +1,13 @@
+Enter the number of child processes: 5
+Parent process PID: 23580 creating 5 child processes...
+
+Child 2: PID = 30464, Parent PID = 23580, Message = Hello from child 2
+Child 1: PID = 31948, Parent PID = 23580, Message = Hello from child 1
+Parent: Child with PID = 31948 finished
+Parent: Child with PID = 30464 finished
+Child 3: PID = 32412, Parent PID = 23580, Message = Hello from child 3
+Child 4: PID = 3608, Parent PID = 23580, Message = Hello from child 4
+Child 5: PID = 32028, Parent PID = 23580, Message = Hello from child 5
+Parent: Child with PID = 32412 finished
+Parent: Child with PID = 3608 finished
+Parent: Child with PID = 32028 finished
